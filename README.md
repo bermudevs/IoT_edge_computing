@@ -3,7 +3,7 @@ Microbit_Arduino
 
 <h3>Microbit<h3>
 1)Projeto com sensor de iluminação que descreve na placa luminosa qual é a situação do ambiente: "Está claro" ou "Está escuro", dependendo de cada situação, uma música é tocada.
-  <img src="Microbit.jpeg">
+  <img src="Microbit.jpg">
   <a href="https://github.com/bermudevs/myfirst">Clique aqui para o projeto</a>
 
 
