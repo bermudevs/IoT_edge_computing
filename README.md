@@ -6,7 +6,7 @@ Microbit_Arduino
   <img src="Microbit.JPG">
   <a href="https://github.com/bermudevs/myfirst">Clique aqui para o projeto</a>
 
-
+hr{width: 10px;}
 <h3>PiscaPisca<h3>
 2) Projeto Pisca Pisca: Alteração que eu fiz referente a aula foi a intermitência entre um led e outro, eles não piscam simultaneamente.
 <img src="Daring Snaget.png">
