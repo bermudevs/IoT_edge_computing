@@ -3,6 +3,7 @@ Microbit_Arduino
 
 1)
 
+
 <h3>PiscaPisca<h3>
 2) Projeto Pisca Pisca: Alteração que eu fiz referente a aula foi a intermitência entre um led e outro, eles não piscam simultaneamente.
 <img src="Daring Snaget.png">
