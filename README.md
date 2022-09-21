@@ -12,4 +12,4 @@ Projeto Pisca Pisca: Alteração que eu fiz referente a aula foi a intermitênci
 <img src="Daring Snaget.png">
 <a href="PiscaPisca.ino">Clique aqui para o código C++</a>
 <br>
-<a href="PiscaPisca.brd">Clique aqui .brd para abri no https://www.tinkercad.com</a>
+<a href="PiscaPisca.brd">Clique aqui para abrir o .brd para usar no https://www.tinkercad.com</a>
