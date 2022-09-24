@@ -8,7 +8,7 @@ Projeto com sensor de iluminação que descreve na placa luminosa qual é a situ
 
 <hr>
 <h3>2) PiscaPisca<h3>
-Projeto Pisca Pisca: Alteração que eu fiz referente a aula foi a intermitência entre um led e outro, eles não piscam simultaneamente.
+Projeto Pisca Pisca: Alteração que eu fiz referente a aula foi a intermitência entre um led e outro, eles não piscam simultaneamente quando clica no botão.
 <img src="Daring Snaget.png">
 <a href="PiscaPisca.ino">Clique aqui para o código C++</a>
 <br>
@@ -16,11 +16,11 @@ Projeto Pisca Pisca: Alteração que eu fiz referente a aula foi a intermitênci
   
 <hr>
 <h3>3) Fotorresistor<h3>
-Projeto Fotorresistor: Alteração que eu fiz referente a aula foi a intermitência entre um led e outro, eles não piscam simultaneamente.
-<img src="Daring Snaget.png">
-<a href="PiscaPisca.ino">Clique aqui para o código C++</a>
+Projeto Fotorresistor: A partir de 750 o LED vermelho acende e indica no monitor serial que está escuro, abaixo disso o LED verde acente e o monitor serial indica que está claro.
+<img src="FOTORRESISTOR.jpg">
+<a href="projeto_fotorresistor.ino">Clique aqui para o código C++</a>
 <br>
-<a href="PiscaPisca.brd">Clique aqui para abrir o .brd para usar no https://www.tinkercad.com</a>
+<a href="Projeto_Fotorresistor.brd">Clique aqui para abrir o .brd para usar no https://www.tinkercad.com</a>
   
 <hr>
 <h3>4) Sensor Movimento<h3>
