@@ -15,8 +15,8 @@ Projeto Pisca Pisca: Alteração que eu fiz referente a aula foi a intermitênci
 <a href="PiscaPisca.brd">Clique aqui para abrir o .brd para usar no https://www.tinkercad.com</a>
   
 <hr>
-<h3>2) PiscaPisca<h3>
-Projeto Pisca Pisca: Alteração que eu fiz referente a aula foi a intermitência entre um led e outro, eles não piscam simultaneamente.
+<h3>3) Fotorresistor<h3>
+Projeto Fotorresistor: Alteração que eu fiz referente a aula foi a intermitência entre um led e outro, eles não piscam simultaneamente.
 <img src="Daring Snaget.png">
 <a href="PiscaPisca.ino">Clique aqui para o código C++</a>
 <br>
