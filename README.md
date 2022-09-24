@@ -17,6 +17,7 @@ Projeto Pisca Pisca: Alteração que eu fiz referente a aula foi a intermitênci
 <h3>4) Sensor Movimento<h3>
 Projeto Sensor de Movimento: Alteração que fiz foi implementar um LED que não foi dado em aula alguma mas pela noção dada em aulas dos LEDs simples, foi possível entender como funciona todo o sistema e fazer funcionar a minha ideia!<br>
 <img src="SENSOR_PRESENCA_BUZZER_RGB.jpg">
+<br>
 <a href="sensor_presenca_buzzer_rgb1.ino">Clique aqui para o código C++</a>
 <br>
 <a href="Sensor_presenca_Buzzer.brd">Clique aqui para abrir o .brd para usar no https://www.tinkercad.com</a>
