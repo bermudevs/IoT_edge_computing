@@ -17,6 +17,7 @@ Projeto Pisca Pisca: Alteração que eu fiz referente a aula foi a intermitênci
 <hr>
 <h3>3) Fotorresistor<h3>
 Projeto Fotorresistor: A partir de 750 o LED vermelho acende e indica no monitor serial que está escuro, abaixo disso o LED verde acente e o monitor serial indica que está claro.
+  <br>
 <img src="FOTORRESISTOR.jpg">
 <a href="projeto_fotorresistor.ino">Clique aqui para o código C++</a>
 <br>
